@@ -12,5 +12,5 @@ This is a simple password generator written in C. It allows you to:
 ## Compilation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/password-generator-c.git
+   git clone https://github.com/s1upee/password-generator-c.git
    cd password-generator-c
